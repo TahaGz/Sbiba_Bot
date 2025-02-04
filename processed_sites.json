@@ -1,0 +1,836 @@
+[
+    {
+        "site_name": "Henchir-Meguitla / Henchir-Gilgel",
+        "location_coordinates": "258,400 N ; 434,300 E",
+        "location_description": "Approximately 900 m east of Aïn Jiljel, north of the wadi of the same name; near the Oued Gilgel, separating the territories of Madjer and Oulad Ayar.",
+        "summary": "Henchir-Meguitla, also known as Henchir-Gilgel, is an ancient site located near Oued Gilgel.  It's described as having been a military post, evidenced by an enclosure built with large, roughly-hewn blocks.  The site, now largely ruined and overgrown with cacti, contains remnants of several ancient structures, including multiple olive presses (identified by grinding platforms, anchor stones, and other components),  and various other architectural fragments.  Significant quantities of pottery shards have also been found, indicating past habitation. The site's exact location presents some ambiguity due to discrepancies between different maps and descriptions."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "258,950 N ; 423,600 E",
+        "location_description": "Hr. Draa Superficie : 2 ha",
+        "summary": "A completely leveled ancient site with a few unearthed blocks and three antique elements recovered from a farmer: a conical millstone with two notches, a fragment of a doorpost of the same type of stone, and a fossilized limestone meta. The site is strewn with common and stamped antique ceramics.  The limited remaining artifacts suggest a once inhabited area with evidence of milling and building materials, indicative of daily life in antiquity."
+    },
+    {
+        "site_name": "Sidi Hamza",
+        "location_coordinates": "259,050 N ; 420,950 E",
+        "location_description": "CNSAMH, feuille de Ksar Tlili, 068.012, Alt. 675 m",
+        "summary": "Sidi Hamza is a site containing a modern cemetery (approximately 3000 m²) where fine red antique ceramic has been found.  According to Ben Baaziz, it is likely an ancient necropolis.  The presence of antique ceramics suggests the area held significance in antiquity, possibly as a burial ground predating the modern cemetery. Further research is needed to fully understand its historical extent and context."
+    },
+    {
+        "site_name": "Aïn Jeljil",
+        "location_coordinates": "258,100 N ; 435,200 E",
+        "location_description": "Source with antique water capture, near Sbiba, feuille 069.005, at an altitude of 920 m.",
+        "summary": "Aïn Jeljil features an ancient water source with two partially preserved channels approximately 100 meters downstream.  These channels, one higher than the other, are constructed of masonry (blocks and lime). The lower channel, measuring 12 cm wide and 24 cm high, is lined with tiles.  Discontinuities are due to collapses, landslides, and erosion.  Around 500 meters downstream, a circular inspection chamber similar to another site (005) was identified. The site showcases ancient water management techniques, evidenced by the well-preserved remains of the channels and inspection chamber."
+    },
+    {
+        "site_name": "Aqueduct of Aïn Jeljil",
+        "location_coordinates": "256,800-257,700 N ; 431,500-434,250 E",
+        "location_description": "Near Sidi Mbarek cemetery and El Maazoula, Sbiba region.",
+        "summary": "This site contains the remains of an ancient aqueduct, evidenced by masonry walls and numerous elongated, grooved, quadrangular blocks arranged like terracotta pipes.  The aqueduct's route is traceable for approximately 2500 km, passing near Sidi Mbarek cemetery where it appears as a 50cm wide wall.  Further along, near El Maazoula, the aqueduct is composed of yellowish-white limestone blocks forming a 16-17cm wide and 8-10cm deep channel.  A circular inspection well and an 'L'-shaped basin (26m x 12.20m) are also identified along the route.  The aqueduct's construction involved interlocking blocks and a lime-bound retaining wall.  Erosion and stone removal have left the monument's overall layout discontinuous."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "257,700 N ; 433,100 E",
+        "location_description": "Alt. 710 m",
+        "summary": "The site, recorded on the CNSAMH map sheet of Sbiba (069.010), is located at an altitude of 710 meters.  Initial reports indicated the presence of features ('RR') which were not found during a field visit. Further details regarding the historical significance of the site are lacking in the provided description, suggesting additional research is needed to establish a comprehensive understanding of its past."
+    },
+    {
+        "site_name": "Hr. El Kanntra (Hr. El Contra or Hr. Gilgel)",
+        "location_coordinates": "257,900 N ; 430,300 E",
+        "location_description": "On the southern flank of a hill in the extension of Jebel Skarna, near the border between the governorates of Siliana and Kasserine, and between the Ouled Ayar and Majer territories.",
+        "summary": "Hr. El Kanntra is a largely destroyed ancient site covering approximately 30 hectares, mostly planted with prickly pears.  Excavations have revealed numerous artifacts including a press with its components, numerous counterweights, fragments of door thresholds, mortars, querns, columns bases and shafts, capitals, sarcophagi, and a significant amount of common and sigillata pottery.  Seven epigraphic documents, including epitaphs of the Staberii family and others, dating between 101 and 300 AD, provide valuable insights into Roman-era funerary practices and local onomastics. The site has suffered from looting and clandestine excavations, but the remaining evidence points to a significant Roman settlement."
+    },
+    {
+        "site_name": "El Maazoula",
+        "location_coordinates": "256,750 N ; 430,500 E",
+        "location_description": "Southeast of Ragoubet El Maazoula",
+        "summary": "El Maazoula is an entirely leveled ancient site, currently planted with cacti.  Despite its razed state, remnants of antique structures, including double-faced walls and elements of an oil press, remain.  These include a limestone counterweight with an indentation, a damaged conical grinder, and various other recovered items such as two white limestone grinders, a fossilized white limestone meta, a smooth yellowish limestone column shaft, and a white limestone mortar.  Common and sigillata antique ceramics are scattered across the site, further indicating its ancient significance."
+    },
+    {
+        "site_name": "Ksar Tlili",
+        "location_coordinates": "257,350 N ; 420,700 E",
+        "location_description": "CNSAMH, feuille de Ksar Tlili, Alt. 700 m.  Superficie : 1 ha. Site antique arasé envahi par les jardins.  The site is located on natural outcrops; many stones and an erosion glaze (fig. 57).",
+        "summary": "Ksar Tlili is an ancient, leveled site now overtaken by gardens.  Remains of the site have been reused in modern fences and houses.  Excavations revealed several artifacts including a type 'B' oil press counterweight, broken press components, two limestone troughs, and a simple molded base.  A funerary stele was discovered, inscribed with the names Ael[ia]ae Antula and Honorata, indicating two female members of the gens Aelia, a prominent family in the Sufes region. Common and sigillata pottery is also present on the site.  The site's architecture and grave goods provide valuable insight into the daily life and funerary practices of this Roman-era population."
+    },
+    {
+        "site_name": "Aïn El Mal",
+        "location_coordinates": "257,600 N ; 499,000 E",
+        "location_description": "CNSAMH, feuille de Ksar Tlili, 068.037",
+        "summary": "Aïn El Mal is an archaeological site encompassing an ancient settlement, a mzar (a sacred enclosure) near a spring, and a defensive structure.  The ancient settlement, largely destroyed, shows remnants of carved blocks and antique pottery. The mzar features a niche with signs of ritual use.  Ras El Bania, a rectangular defensive structure, is characterized by thick walls and multiple internal rooms, suggesting a control or surveillance building.  The presence of a reused press beam component suggests a connection to olive pressing in the Rohia area. The lack of later ceramic finds indicates a possibly short or incomplete occupation period, primarily dating to the antique era."
+    },
+    {
+        "site_name": "Hr Kef Damoussi",
+        "location_coordinates": "256,400 N ; 430,200 E",
+        "location_description": "on the eastern bank of the Oued El Contra, southeast of Hr. El-Contra",
+        "summary": "Hr Kef Damoussi is a completely razed ancient site covering 3 hectares.  Located on the eastern bank of the Oued El Contra, it contains numerous structures with double-faced walls of rubble bound with lime.  Discoveries include a door threshold, a limestone trough, a fragment of architecture possibly a corbel with grape and vine leaf decoration, a structure in opus africanum, a column base, drum shafts, and abundant Roman pottery.  Significant finds also include a stele depicting Mercury and a cippus-altar inscribed \"EX OFICINA MASNI VS,\" suggesting a workshop, possibly a stone-cutting workshop, dating from the 2nd-3rd centuries CE. The site's artifacts and the presence of olive cultivation evidence point to a Roman period occupation (3rd century CE and earlier)."
+    },
+    {
+        "site_name": "Aïn Sidi Abdelmalek",
+        "location_coordinates": "257,100 N ; 420,850 E",
+        "location_description": "En arrière d'une source de faible débit, CNSAMH, feuille de Ksar Tlili, 068.046, Alt. 710 m.",
+        "summary": "Aïn Sidi Abdelmalek is a site featuring a dry-stone enclosure situated behind a small spring, under a tamarisk tree.  Evidence suggests past cultic activity, indicated by the presence of an integrated antique carved block and scattered ancient ceramic fragments.  Despite these findings, larger-scale ancient structures are absent. The site's significance lies in its potential as a minor religious or ritual location, evidenced by the artifacts and its placement near a water source."
+    },
+    {
+        "site_name": "Sidi Abd El Kader",
+        "location_coordinates": "256,150 N ; 429,650 E",
+        "location_description": "Southeast of Hr. El Contra n° 069.119, on the left bank of the O. Contra-Messanag",
+        "summary": "Sidi Abd El Kader is a completely leveled ancient site now occupied by a modern hamlet.  Only very rare, out-of-context antique blocks and rubble are visible. Common and sigillata antique ceramics are scattered across the site's surface, indicating past habitation and activity. The site's complete leveling obscures its original layout and structures, making precise interpretation of its historical significance challenging based on the available information."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069.022",
+        "location_coordinates": "255,100 N ; 429,050 E",
+        "location_description": "Site not found (the location seems to have undergone significant alluviation, which buried the site).",
+        "summary": "The CNSAMH site, located in the Sbiba sheet (069.022), at coordinates 255,100 N; 429,050 E and an altitude of 611m, is currently considered lost.  Significant alluvial deposits appear to have buried the site, making its excavation and further study currently impossible.  Further research would be needed to uncover details of its historical significance, assuming any remains of the site can be found and excavated."
+    },
+    {
+        "site_name": "Sidi Ben Habbès",
+        "location_coordinates": "254,700 N ; 439,550 E",
+        "location_description": "on the south flank of Jebel Sidi Ben Habbès, overlooking the El Hbèbsa region",
+        "summary": "The site originally contained a marabout (shrine) that was destroyed and replaced by a mosque.  Excavations following this destruction uncovered various antique elements, including numerous column shafts and capitals.  A significant find was a funerary stele bearing an inscription for Decimus Fabius Primus, a Roman citizen who lived for 80 years. The inscription's style and lack of invocation to the Manes suggests a dating to the 1st century CE.  The site offers valuable insight into Roman presence and funerary practices in the region, despite the modern alterations."
+    },
+    {
+        "site_name": "Sidi Ahmed Ben Salah",
+        "location_coordinates": "256,600 N ; 420,600 E",
+        "location_description": "CNSAMH, feuille de Ksar Tlili, 068.058; Alt. 700 m.",
+        "summary": "Sidi Ahmed Ben Salah is an archaeological site encompassing an ancient settlement, two mazars (shrines), and a cemetery.  The western area contains antique remains, including fragments of columns (some within a mazar) made of yellowish limestone, and foundations.  The site features in-situ and scattered architectural elements, along with common and sigillata antique ceramic fragments.  The presence of the Roman inscription \"Decimus Fabius Primus, pious, lived 80 years, here he lies, may his bones rest in peace\" suggests a Roman presence and burial ground. The site covers approximately 2 hectares."
+    },
+    {
+        "site_name": "Borj Amor Ben Brahim",
+        "location_coordinates": "253,950 N ; 439,100 E",
+        "location_description": "On the right bank of the Oued El Abiod, at the foot of a rocky hill.",
+        "summary": "Borj Amor Ben Brahim, located on the right bank of the Oued El Abiod, is currently a modern hamlet.  The site shows ruins identified as Roman on topographical maps, but now only a house called \"Borj Amor Ben Brahim\" remains, consisting of about ten rooms around a large courtyard.  The structure reuses large blocks, including a smooth column shaft, but lacks antique ceramics.  Approximately one kilometer to the north, near Aïn Mohguen, lies an oval-shaped tumulus (17m diameter), a common type of stone mound composed of large blocks on the sides and smaller stones in the center."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "255,550 N ; 425,150 E",
+        "location_description": "On an eminence in a flood plain, on the right bank of the Oued Rohia (El Htab).",
+        "summary": "This largely leveled site, now planted with cacti, shows evidence of ancient occupation.  Remnants of a snail shell midden with flint and snail shells are present, disturbed by later activity.  Double-faced ashlar walls are visible throughout.  Reused antique elements, including dressed stones, a bossage block, a fragment of a fossilized limestone millstone, and a column shaft, are found in the ruins of a modern dwelling to the southeast.  The site is covered with rubble, common and sigillata antique ceramics."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069.024",
+        "location_coordinates": "255,950 N ; 426,700 E",
+        "location_description": "Approximately 800 m east of Hr. Jedliane (site n° 069.112), on the left bank of the Oued Rohia (El Htab)",
+        "summary": "This site features a 17-meter diameter snail shell midden. The midden consists of a layer more than 15 cm thick of grayish, ash-colored earth containing a high concentration of snail shells, flint flakes, and calcined stones.  Its location on the left bank of the Oued Rohia suggests potential significance relating to water resources and/or settlement patterns in the region. The presence of flint flakes and calcined stones may indicate past human activity, possibly related to food preparation or other domestic tasks. Further investigation is needed to fully understand the site's chronological and cultural context."
+    },
+    {
+        "site_name": "Hr. Baba Abdallah",
+        "location_coordinates": "253,650 N ; 443,500 E",
+        "location_description": "feuille de Sbiba, 069",
+        "summary": "Hr. Baba Abdallah is an ancient, leveled site characterized by a concentration of ruins and archaeological material.  The site features structures reusing stone fragments, in-place querns, and several door thresholds.  Significantly, it contains numerous elements of oil presses, all made from Nummulitic limestone, typical of the area's rock outcrops.  Northern findings include fragments of press platters, a well-preserved counterweight, two twin press uprights, a grinding stone, and a door threshold.  Additional oil press elements are found nearby. A nearby elliptical tumulus of approximately 10m diameter further enhances the site's historical significance. Common and sigillata antique ceramics are also present."
+    },
+    {
+        "site_name": "Hr. El Mehalla",
+        "location_coordinates": "253,400 N ; 449,500 E",
+        "location_description": "On the north and east flanks of a koudiat (small hill) overlooking the Oued Erbiba and Oued Jraouil (a tributary of the former), near a hamlet that reused antique elements.",
+        "summary": "This largely leveled ancient site, now mostly planted with cacti, is located on the summit and northern and eastern slopes of a hill.  The site contains various structures including aligned walls, in-situ stone structures, and a 10x10m structure with the remains of a basin and mosaic pavement.  Recovered artifacts include column bases, troughs, querns, mortars, and grinding stones.  Two Christian funerary stelae, published by P. Gauckler,  bearing epitaphs of Lucidus son of Mithimus and Abundantius son of Mithinus, provide evidence of the site's use between 300 and 500 AD. Common, sigillata, and oil lamp fragments are also present, suggesting continuous occupation."
+    },
+    {
+        "site_name": "Henchir Sidi El Gharnag",
+        "location_coordinates": "255,050 N ; 421,350 E",
+        "location_description": "Ksar Tlili, CNSAMH, feuille 068.  Alt. 660 m.",
+        "summary": "Henchir Sidi El Gharnag consists of a cemetery with a mzar and an ancient oil mill approximately 300m apart. The oil mill, a largely leveled structure covering 500m², features a surviving counterweight and two visible press vats.  Its exterior walls, constructed of large blocks, form a 7.20m (N-S) x 6.5m (E-W) rectangle. The site is threatened by a nearby track that crosses it, causing damage in the north."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069.027",
+        "location_coordinates": "255,300 N ; 423,300 E",
+        "location_description": "Jedliane, near a college.",
+        "summary": "This excavated ancient site near the college of Jedliane, covers approximately 2 hectares.  Scattered remains include architectural elements like three Ionic column bases with detailed descriptions of their dimensions and moldings, two grey marble column shafts, and three white limestone door thresholds or lintels.  Common and sigillata pottery are present, along with bichrome black and white mosaic cubes. Some antique blocks have been reused by locals.  The site is partially impacted by a modern Islamic cemetery to the southwest, where additional scattered antique blocks are found."
+    },
+    {
+        "site_name": "Kef El Louz",
+        "location_coordinates": "255,100 N ; 419,950 E",
+        "location_description": "West slope of Kef El Louz",
+        "summary": "Kef El Louz features a large megalithic necropolis, a field of dolmens and tumuli of varying shapes and sizes.  Over twenty tombs have been identified, ranging from the bottom of a ravine to the southern tip of the cliff's eastern edge.  Many have been excavated, cleared, or eroded, while others reveal carefully constructed dry-stone walls within.  These burial chambers are small (0.5-0.8m high, 1-1.5m long), with varying slab thicknesses depending on the local limestone.  The protohistoric tumuli are often circular but less well-preserved than those at sites 068.062, 068.067, 068.072, and 068.076 south of Kalaat Moussa."
+    },
+    {
+        "site_name": "Koudiat El Dhalli",
+        "location_coordinates": "254,850 N ; 418,800 E",
+        "location_description": "A hill located below Kef El Louz. The eastern end of the hill is covered by a field of circular tumuli, some damaged and others relatively well preserved.",
+        "summary": "Koudiat El Dhalli is an archaeological site featuring a field of circular tumuli, indicating past burial practices.  The tumuli, some damaged and others intact, are located on a hill below Kef El Louz. The site's location within the CNSAMH (presumably a national archaeological survey) map sheet Ksar Tlili suggests its importance within a broader regional context.  Further research is needed to fully determine the chronology and cultural affiliation of the tumuli and their significance within the landscape."
+    },
+    {
+        "site_name": "Ksar Tlili site (western extremity)",
+        "location_coordinates": "255,050 N ; 422,750 E",
+        "location_description": "Western extremity of the Ksar Tlili site (feuille 068). Located north of an unnamed oued.  The coordinates provided are relative to the Ksar Tlili map (feuille 068).",
+        "summary": "This site, approximately 200 square meters in area, shows evidence of an ancient settlement.  Recent looting has exposed scattered fragments of ancient ceramic pottery and large-cube white mosaic pieces.  The presence of quarried stones and broken dressed blocks further supports the existence of significant structures.  The site's location north of an oued suggests proximity to a water source, a key factor for ancient settlements.  The extent of the looting highlights the vulnerability of such sites to damage and underscores the need for preservation efforts."
+    },
+    {
+        "site_name": "Aqueduct in the gorges of Oued Jedliane",
+        "location_coordinates": "254,550 N ; 420,000 E",
+        "location_description": "In the gorges of the Oued Jedliane, El-Saguia",
+        "summary": "This site features a 200m long ancient aqueduct carved into a cliff face, channeling water from the Oued Jedliane to an ancient village (site 068.226).  The aqueduct's construction shows two distinct phases, suggesting repairs following damage from floods.  These repairs involved using both small and larger stones in the channel's walls, indicating different construction periods and highlighting the longevity and maintenance of this important water management system in the ancient village's water supply."
+    },
+    {
+        "site_name": "Sidi Belgacem",
+        "location_coordinates": "254,600 N ; 410,750 E",
+        "location_description": "On the left bank of the Oued Jedliane Sidi Belgacem, south of a recent reservoir.",
+        "summary": "Sidi Belgacem is a major archaeological site encompassing approximately 3-4 hectares.  Key features include a large cemetery with three mzar (dry-stone enclosures) containing various artifacts such as oil press components (including a pair of 2.3m high press beams showcasing technological evolution), millstones, mortars, column fragments, and possibly filled cisterns.  The site reveals evidence of oil production and potentially spans different historical periods. The presence of reused architectural elements within the mzars and the extensive cemetery indicates prolonged occupation. A smaller escargotière (snail shell deposit) is also located nearby, suggesting further activity at the site."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "69.028 254,500 N ; 433,300 E",
+        "location_description": "Just west of the track, remains of a disturbed snail shell deposit of approximately 30 cm in diameter: it is a patch of ashy earth with flint flakes, calcined stones and snail shells.",
+        "summary": "The site, located in the Sbiba region, reveals evidence of past human activity.  The disturbed snail shell deposit, characterized by ashy earth, flint flakes, calcined stones, and snail shells, suggests a potential area of human habitation or activity involving fire. The presence of these artifacts indicates a site with archaeological significance, requiring further investigation to determine the exact nature and timeframe of human occupation or interaction with this location.  The limited size of the deposit may suggest a localized activity, or a smaller settlement."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069.038 et 069.144",
+        "location_coordinates": "253,000 N ; 440,550 E",
+        "location_description": "Summit of an elongated hill oriented northwest-southeast, cut in the middle by an east-west track. Located near Oued el Baten (tributary of Oued el Karroub, tributary of Oued el Htab).",
+        "summary": "This ancient, leveled site comprises four main areas with significant remains of an olive oil press operation.  Numerous features, including multiple presses with their components (jumelles, lintels, platforms, basins, counterweights), have been identified.  Other structures include a sarcophagus, possibly related to a broken sigillata bowl, and a well. Abundant ancient common and clear sigillata pottery, tiles, amphora fragments, and polychrome mosaic fragments have been found, indicating significant occupation and activity related to olive oil production during the ancient period."
+    },
+    {
+        "site_name": "Hr. Demma (also known as Hr. Dammeg, Hr. Belguith, or Hr. El Haj M8barek)",
+        "location_coordinates": "254,600 N ; 424,650 E",
+        "location_description": "4 kilometers north of Sbiba, on the feuille de Sbiba, CNSAMH 069.113.  Currently occupied by a hamlet called \"Douar el Wesseltia\".",
+        "summary": "This largely erased ancient site, approximately 2.5 hectares, is located near Sbiba, Tunisia.  Initially described by R. Cagnat in 1888 as an insignificant ruin, likely a large farm, the site reveals remnants of double-faced walls (60 cm thick), various artifacts including mortars, metates, a possible door threshold, column shafts, and fragments of troughs and a catillus.  Scattered Roman ceramic pieces are also present. A depression, possibly a filled-in well, is located in the north-central area. The site's historical significance points to a substantial Roman-era structure, though its precise function remains unclear."
+    },
+    {
+        "site_name": "El Aouilia - El Jouibia - Kalouet El Aouabdia",
+        "location_coordinates": "254,600 N ; 423,500 E",
+        "location_description": "feuille de Sbiba, 069.031; Alt. 630 m",
+        "summary": "This leveled ancient site, situated on a hilltop, is strewn with collapsed masonry blocks, suggesting a significant structure.  Numerous artifacts, including tile fragments, waterproof coating remnants, and common and sigillata antique ceramic shards, have been found, raising the possibility of a thermal establishment.  A structure to the south reuses large antique blocks, oriented east-west, forming two rooms; the western one being larger.  The presence of glazed ceramic shards further enriches the archaeological potential of this 6000 m² site."
+    },
+    {
+        "site_name": "Henchir Felfoul",
+        "location_coordinates": "252,300 N ; 421,300 E",
+        "location_description": "on the right bank of the Oued Jedliane; part of site 068.112 on the left bank, comprising three parts.",
+        "summary": "Henchir Felfoul is a 6-hectare site consisting of three parts, possibly representing successive settlements or districts of a larger site.  It features a field of stones and pebbles with roughly hewn blocks and leveled rubble walls, along with a filled-in ancient well.  The presence of varied ancient ceramics (common, red, and sigillata) suggests a significant duration of occupation. Its location at the exit of the Oued Jedliane gorges suggests it may have benefited from the hydraulic system of site 068.114."
+    },
+    {
+        "site_name": "Hr. Smida",
+        "location_coordinates": "249,450 N ; 431,350 E",
+        "location_description": "on the left bank of the Oued el Htab",
+        "summary": "Hr. Smida is a completely leveled ancient site, possibly referencing a small fort.  The site features leveled structures, in-place harpies, and a base with a high plinth topped by a flat cylinder. A structure reuses two columns, including an inscribed milliary indicating the fourth mile from Sufes. This milliary bears inscriptions from both Gallienus and Theodosius, suggesting a span of occupation across different periods. The site is strewn with common and sigillata ancient pottery."
+    },
+    {
+        "site_name": "Sufes (Sbiba)",
+        "location_coordinates": "249,500 N ; 425,500 E",
+        "location_description": "Located approximately 40 km southwest of Maktaris, 40 km south of Thugga Therebintina, 30 km south of Mididi, 40 km east of Thala, 35 km north of Sufetula, and 30 km west of Marazanae.  The site is situated on an undulating plateau overlooking a vast plain watered by the Oued Sbiba to the east. This watercourse passes south of the site and joins the Oued Rohia-El Htab 5 km to the east. To the west, the site is protected by the mountains of Tioucha to the southwest, Kef Soltan, and Sidi Ali Ben Om Ezzine to the west.",
+        "summary": "Sufes, the ancient name for modern-day Sbiba, is a historically significant site situated in a strategic north-south passage known as \"Fej Sbiba\" during the medieval period.  The site, covering approximately 30 hectares, features remains of various structures, including a Byzantine fortress, thermae, a nymphaeum, and several Christian basilicas, though many monuments have been lost to time and urban expansion.  The most prominent surviving structure is the Jamaa Sidi Okba, initially a Christian basilica later converted into a mosque.  Numerous architectural elements, including capitals and columns, have been found, indicating the site's importance and the reuse of older materials in later constructions. The extensive epigraphic evidence reveals a rich history spanning from the Roman period to the Byzantine era, highlighting Sufes's role in the region's political, religious, and social life."
+    },
+    {
+        "site_name": "Sufes",
+        "location_coordinates": "249,500 N ; 427,000 E",
+        "location_description": "feuille de Sbiba, near Oued Sbiba, approximately 100m east of the Sbeitla-Rohia road, between the city and the Oued El Htab.",
+        "summary": "The site, originally marked on topographic maps (RR), is largely destroyed by agricultural development.  Remaining evidence includes a white limestone trough, scattered antique blocks, and fragments of common and sigillata pottery.  Linear parallel stone mounds, possibly related to ancient agricultural practices, run east-west from the site towards the eastern plain.  A debris pile further east contains antique stones, press parts, and pottery fragments, indicating the extent of the site's destruction."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069.087",
+        "location_coordinates": "249,500 N ; 448,800 E",
+        "location_description": "Hr. M9karig (d9après les paysans) Hr. Makrerig (sur la carte)",
+        "summary": "This leveled antique site consists of two parts. The northern section, near a modern house, contains a mound with white limestone elements including a door threshold, five troughs, a twin pillar, a press plate fragment, a millstone, and large ashlar blocks.  Common and sigillata antique pottery is also present. The southern section (approx. 250 m²) features two wine presses with bases and elongated uprights, along with flat tiles, amphora fragments, waterproof coating fragments, a broken architectural element, and more common and sigillata pottery. The site's remnants suggest an ancient structure likely associated with agricultural activities (wine production) and daily life."
+    },
+    {
+        "site_name": "Kods El Rmed",
+        "location_coordinates": "249,250 N ; 430,000 E",
+        "location_description": "Hill located on the right bank of the Oued El Htab and on the left bank of the Oued Bou Rouine.",
+        "summary": "Kods El Rmed is a 600 m² hill covered with ash, rubble, calcined stones, bones, a significant quantity of molded ceramics, and smaller amounts of green Islamic and sigillata ceramics.  The hilltop features a rectangular enclosure opening eastward and a hewn stone slab within a small stone enclosure.  Local legend associates the site with Sidi El Hadi El Hafiane, who is said to have prayed on the stone, which subsequently became a place of worship."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "248,825 N ; 437,650 E",
+        "location_description": "South of Sidi Brahim El Zahair, on the north (left) bank of the Oued El Htab.",
+        "summary": "This largely destroyed ancient site, located south of Sidi Brahim El Zahair on the north bank of the Oued El Htab, shows significant signs of past spoliation and agricultural activity.  Despite its degraded state, remnants of ancient structures and artifacts remain, including a fossilized limestone grinder, a limestone meta, a nummulitic limestone lintel, tiles, mosaic cubes, plaster, and various types of ancient ceramics. The presence of these artifacts suggests a settlement of considerable age and size, although its precise nature and extent require further investigation. The site's current condition highlights the importance of preservation efforts for protecting such vulnerable historical locations."
+    },
+    {
+        "site_name": "Ras el Argoub",
+        "location_coordinates": "248,900 N ; 441,650 E",
+        "location_description": "on the left bank of the Oued El Htab",
+        "summary": "Ras el Argoub, covering approximately 2 hectares, is an archaeological site featuring remnants of ancient oil production structures, including two broken grinding platforms, a broken counterweight, fragments of stone presses, and a broken mortar.  The site also contains scattered fragments of waterproof coating and a medium density of common and stamped antique ceramics.  Currently, the site is occupied by a modern cemetery with eight tombs and a rudimentary mzar (shrine)."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069.101",
+        "location_coordinates": "247,700 N ; 442,850 E",
+        "location_description": "Douar El Fraïjya, on the right bank of the Oued El Htob.",
+        "summary": "This ancient, leveled site in Douar El Fraïjya contains various artifacts indicative of past agricultural and possibly industrial activities.  These include remnants of a double trough, press parts, a grinding platform, a counterweight, a circular plaster oven, a limestone meta, and a second broken trough.  The presence of common and sigillata pottery, along with two oxidized bronze coins, further supports its ancient character and suggests a settlement or workshop dating back to the Roman era or before. The site covers approximately 1.8 hectares."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "247,200 N ; 446,600 E",
+        "location_description": "Hr. Beit Hamda",
+        "summary": "This 1.5-hectare site in Beit Hamda contains numerous remnants of an oil press, including millstones, anchors, lintels, and other fittings.  A lime kiln, constructed of solid brick, is also present, revealing layers of ash, lime, and sand.  Various ceramic fragments, including common antique, sigillata, and glazed Islamic ware, are scattered throughout. The site has unfortunately suffered from looting and clandestine excavations."
+    },
+    {
+        "site_name": "Sidi Aïssa",
+        "location_coordinates": "249,150 N ; 427,350 E",
+        "location_description": "East of the intersection between the Oued Sbiba and the Sbeitla-Rohia road",
+        "summary": "Sidi Aïssa is a completely leveled ancient site containing scattered antique elements.  These include fragments of white limestone column shafts, a white limestone column base, a yellowish limestone counterweight, and a fragment of a monolithic basin with embedded ends. Common and sigillata antique ceramics have also been found at the site, suggesting past settlement and activity. The site's complete leveling suggests significant disturbance or erosion over time, obscuring much of its original structure. The remaining artifacts offer limited insights into its function and date, but point towards Roman or possibly earlier occupation."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069.097",
+        "location_coordinates": "249,150 N ; 428,000 E",
+        "location_description": "In the bed of the Oued Sbiba, on the south bank.",
+        "summary": "The site has been largely destroyed by land development.  Only fragments of masonry walls remain, likely belonging to a basin that once existed on the south bank of the Oued Sbiba.  The remaining evidence suggests a structure, possibly a water management feature, existed at this location.  Further investigation is needed to determine the precise nature and historical significance of this site. The poor state of preservation limits detailed understanding."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "249,000 N ; 428,750 E",
+        "location_description": "Hr. El Merthoum",
+        "summary": "This completely razed ancient site, now farmland, yielded various artifacts including a limestone trough, conical millstones, a grey marble column shaft, and fragments of molded limestone.  The most significant find is a fragmentary inscription on a beige limestone slab, identifying the site as being under the authority of Proconsul Egrilius Plarianus in 158-159 AD. This inscription suggests the site's importance within the Roman province of Africa and its involvement in boundary disputes or administrative decisions during that period.  Common and sigillata pottery also littered the site, further indicating its antiquity."
+    },
+    {
+        "site_name": "Hr. El Fassa",
+        "location_coordinates": "248,900 N ; 425,000 E",
+        "location_description": "De part et d'autre de Oued Sbiba",
+        "summary": "This site, located near the Oued Sbiba, is largely leveled due to cultivation.  Archaeological remains, however, suggest a significant ancient presence.  Discovered artifacts include elements of an oil press—a counterweight, grinding and pressing platforms—as well as a conical grinder and a meta.  Other finds include mosaic cubes, a coin, fragments of glass, common and stamped antique ceramics, and glazed Islamic ceramics. The presence of these artifacts points to a site with a history spanning across multiple periods, from antiquity to the Islamic era, though the precise nature and extent of occupation remain to be fully understood."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "249000 N ; 425500 E",
+        "location_description": "East of the rocky eminence at the southeastern end of Sbiba.",
+        "summary": "The site features a north-south oriented stone wall alignment approximately 100 meters long, possibly a terrace.  Parallel linear piles of rough stones extend eastward from a rocky eminence.  A third similar alignment is located further south.  Architectural fragments, including a lintel, threshold stones, and a possible door jamb stone, suggest the presence of ancient structures. The scattered remains of architectural elements, along with other artifacts, indicate a significant, though currently partially obscured, ancient site possibly related to Sufes."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069.103",
+        "location_coordinates": "249,150 N ; 426,300 E",
+        "location_description": "Southeast of Sbiba, in a plain now completely cultivated.",
+        "summary": "This ancient site, southeast of Sbiba, is largely destroyed due to modern cultivation.  Only scattered stones and fragments of common and sigillata pottery remain.  Linear, stony mounds, similar to those found at nearby sites (069.085; 069.093; 069.102), are visible on either side. The site's complete destruction hinders a full understanding of its historical significance, but the pottery suggests an ancient occupation."
+    },
+    {
+        "site_name": "Oum El Rouaouine",
+        "location_coordinates": "248,600 N ; 429,500 E",
+        "location_description": "On the left bank of the Oued Bou Rouin (a tributary of the Oued El Htab), largely destroyed by agricultural work.",
+        "summary": "Oum El Rouaouine is an ancient, leveled site covering approximately 1 hectare.  The site's eastern end features the remains of a thermal establishment (17m x 25m), identified by its masonry construction, ash remnants, hypocaust tiles, and formwork tubes.  A partially visible polychrome mosaic decorates the floor of one of the building's apsidal rooms.  Numerous antique fragments are scattered across the site, including double-faced structures, large cut blocks, a column shaft, a type A counterweight, and a fragment of a white limestone trough. Common and sigillata antique ceramics are also present, indicating past habitation."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069.111",
+        "location_coordinates": "248,150 N ; 433,150 E",
+        "location_description": "On a hill located on the left bank of the Oued El Htab, in a very rugged area of sandy soil",
+        "summary": "This leveled ancient site contains various artifacts, including a partially visible structure, a millstone (2m external diameter, well-preserved), a counterweight, a bossage stone, a grinding plate, a twin with 3 holes and a groove, a buried counterweight, and a fragment of a conical-trunk grinder.  Common and sigillata antique pottery is rare. The site's features suggest past industrial or agricultural activities, potentially dating back to antiquity.  Comparisons are made to similar finds at Hr Bou Leidieb (site n° 069.070), indicating a potential connection or shared cultural practices."
+    },
+    {
+        "site_name": "Dar el Hadj Salah",
+        "location_coordinates": "248,250 N ; 437,000 E",
+        "location_description": "On the right bank of the Oued El Htab, at Sidi Brahim El Zahair.",
+        "summary": "Dar el Hadj Salah is a modern oil mill from the 1950s, built around which a small modern hamlet has formed.  The building incorporates antique elements from Hr. Bou Ledieb, including a mortar fragment, catillus, conical grinder, and various architectural pieces such as a Tuscan capital, column bases, shafts, and a door lintel.  The site also features reused epigraphic fragments, including epitaphs from Donata Fortunata (2nd-3rd century CE) and an anonymous individual, along with a fragment of a stele depicting a couple, suggesting a possible funerary context. These reused elements highlight the presence of Roman-era structures in the vicinity, adding historical significance to the area."
+    },
+    {
+        "site_name": "Sidi Ahmed Ez Zaïer",
+        "location_coordinates": "247,850 N ; 439,950 E",
+        "location_description": "feuille de Sbiba, Alt. 500 m",
+        "summary": "Sidi Ahmed Ez Zaïer is a leveled ancient site where elements of an oil mill have been reused in a shrine (mzar).  Visible remains include a broken grinding platform (2m diameter, 15cm thick), a fragment of a press platform, and a fixing stone or twin base with two mortises.  Common antique and stamped pottery shards have also been found, indicating past activity related to olive oil production and potentially other aspects of ancient life in the region."
+    },
+    {
+        "site_name": "Ras El Khabia",
+        "location_coordinates": "246,900 N ; 448,700 E",
+        "location_description": "Located on a hilltop overlooking the Oued El Htob to the west.",
+        "summary": "Ras El Khabia is an ancient, completely leveled site covering 2500m².  Remains include a leveled wall, some stones in place, fragments of interlocking pipes, tiles, waterproof coating, and common and stamped antique pottery.  Two bronze coins were found, one bearing the name of Marcus Aurelius, suggesting a date during his reign. The site's location and artifacts suggest a significant settlement, though its exact purpose and extent remain unclear due to its current state of ruin."
+    },
+    {
+        "site_name": "Khalouet El Rbaïia",
+        "location_coordinates": "246,500 N ; 449,450 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069. Alt. 527 m.",
+        "summary": "Khalouet El Rbaïia is a mzar (shrine) built of roughly hewn, dry-laid stones, measuring 3.60 meters in diameter.  It features an interior niche showing signs of ritual use.  Potsherds of sigillata ware and amphora fragments are scattered around the mzar. Local accounts suggest it's an ancient tomb unearthed during agricultural work.  The site's presence indicates past human activity and potentially religious practices, offering insights into the region's history and possibly funerary customs."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "248,800 N ; 424,400 E",
+        "location_description": "On the left bank of the Oued Sbiba, approximately 1 km southwest of the city, on a small eminence.",
+        "summary": "The site contains the leveled remains of a structure built of masonry and large blocks.  Fragments of waterproof coating, common and sigillata antique ceramics are scattered on the ground, indicating the presence of a basin.  The site's size is 300 m² and sits at an altitude of 640m. The archaeological remains suggest a structure, possibly a basin, dating back to antiquity."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "248,500 N ; 425,850 E",
+        "location_description": "South of the Oued Sbiba, on both sides of the track",
+        "summary": "This site, partially destroyed by agricultural development, reveals remnants of an ancient settlement.  Excavations uncovered harpes, fragments of plaster, and common and sigillata pottery. A rectangular basin with waterproof coating suggests a small complex, supported by traces of barely visible walls.  A nearby circular structure made of terracotta bricks further indicates construction.  Additional finds include more common and sigillata pottery, along with glazed Islamic pottery fragments and a lime-bound rubble wall, indicating a multi-period occupation."
+    },
+    {
+        "site_name": "Hr. El Beniani",
+        "location_coordinates": "248,200 N ; 425,350 E",
+        "location_description": "On a hill crossed by the Sbiba-Sbeitla road,  east of the road.",
+        "summary": "Hr. El Beniani is a largely destroyed ancient site.  Road construction revealed foundations of walls built with rubble and lime mortar, oriented northwest-southeast.  Artifacts found include  fragments of glass, slag, ashy earth, numerous flanged tiles, and common and sigillata antique ceramics.  The site is heavily disturbed by agricultural activities, with foundations consistently destroyed."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "248,450 N ; 428,250 E",
+        "location_description": "Sbiba, altitude 585m.  Area approximately 2500 m2.",
+        "summary": "The site is completely destroyed due to agricultural cultivation.  Only a few fragments of common and sigillata antique pottery remain visible, indicating a past settlement.  Further investigation is needed to determine the precise nature and extent of the occupation. The lack of visible remains hampers a definitive assessment of its historical significance, although the presence of pottery suggests a settlement dating to antiquity."
+    },
+    {
+        "site_name": "Sidi Ali El Hachmi",
+        "location_coordinates": "248,400 N ; 428,900 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.138",
+        "summary": "Sidi Ali El Hachmi is a completely leveled antique site featuring a partially filled rectangular, mortared basin with an intact waterproof coating (2.96m L x 1.80m W x 60cm visible depth).  Scattered and reused antique elements include a white limestone counterweight, a trough, a millstone, and a poorly preserved, lime-washed Ionic base reused as a lintel.  The site also contains double-faced structures and common and sigillata antique ceramics."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "246,800 N ; 439,500 E",
+        "location_description": "Ouled Arif, on a hill bordered to the east by a small valley.",
+        "summary": "This completely leveled ancient site, not marked on maps, is heavily disturbed.  Excavations have yielded numerous oil press elements and door thresholds, indicating past human activity.  Remains include several door jambs and lintels of nummulitic limestone, showing various dimensions and features like mortises and grooves.  A cinder area suggests possible fire activity. Common and sigillata ceramics are also scattered across the site, further supporting its antique nature."
+    },
+    {
+        "site_name": "Sidi Abd El Hfid",
+        "location_coordinates": "247,350 N ; 440,850 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.139",
+        "summary": "The Sidi Abd El Hfid zaouia (mosque), a rectangular room topped with a dome and annex rooms, replaced a modern-era structure, a bordj.  Remnants of the bordj, including 19th-century stones, lime fragments, and tiles, are found near the zaouia.  Among the recovered artifacts are antique elements:  a white limestone capital with a torus framed by two fillets, and a portion of a column shaft, along with other cut stones.  These finds suggest the site's history spans multiple periods, encompassing modern and possibly earlier eras evidenced by the antique stones."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "248,400 N ; 422,600 E",
+        "location_description": "A small hill north of the Oued Sbiba, next to a tributary from the northwest.",
+        "summary": "This leveled ancient site covers 2500 m² at an altitude of 680m.  Visible remains include stone alignments, scattered building stones (possibly parts of walls), and fragments of common and sigillata pottery, indicating past human occupation and activity. The presence of pottery suggests a significant period of settlement, likely dating back to antiquity. Further archaeological investigation is needed to fully determine the site's chronology and the nature of its inhabitants."
+    },
+    {
+        "site_name": "Ragoubet El Gsour",
+        "location_coordinates": "248,350 N ; 423,600 E",
+        "location_description": "on the north bank of the Oued Sbiba",
+        "summary": "Ragoubet El Gsour is a completely leveled ancient site located on the north bank of the Oued Sbiba.  While significantly damaged by development, remaining artifacts include fragments of jars, ceramic pieces (including sigillata), a lamp fragment, and traces of columns.  The site also reveals remnants of an aqueduct feeding ancient Sufes, visible as a 50m long channel carved into the tuff rock.  Regularly spaced inspection shafts along the aqueduct showcase its rectangular, semi-circular topped design.  Nearby, disturbed escargotières (snail shell middens) indicate further past activity."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "248,000 N ; 424,350 E",
+        "location_description": "South of the Oued Sbiba, near El Hekna. A rectangular basin, called El Fassa, is located approximately 400m to the north on the right bank of the Oued Sbiba.",
+        "summary": "This site, completely leveled by cultivation, is identified only by its archeological soil.  The soil contains mosaic tesserae, stones, jar fragments, and common and stamped ancient pottery.  Nearby are the remains of a rectangular basin (23.10m x 13.50m) with internal and external buttresses, built of rubble, lime, and infill using opus vitatum. The basin's ruined walls are located on the bank of the Oued Sbiba.  The site's presence indicates past human settlement and activity, likely dating to antiquity, based on the discovered pottery and construction techniques."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "248,000 N ; 427,150 E",
+        "location_description": "3 or 4 km southeast of Sbiba, west of the ancient road connecting Sbeitla to Rohia.",
+        "summary": "This site, located near Sbiba, is an artificially created eminence of archaeological earth accumulated around the mausoleum of Sidi Mohamed Ben Chrifa.  The largely destroyed site features a rectangular mausoleum with preserved walls constructed using ancient techniques and materials, including large double-faced blocks.  The interior contains thirteen smooth white limestone column shafts arranged in rows.  Corinthian capitals, bases, and other antique elements such as a millstone and fragments of grinding plates are present.  Islamic ceramics from various periods (Aglabide, Fatimide/Ziride, and Hafside) are also found on the site, suggesting continuous occupation or reuse of materials."
+    },
+    {
+        "site_name": "Sidi Bou Sâa",
+        "location_coordinates": "247,600 N ; 427,450 E",
+        "location_description": "feuille de Sbiba",
+        "summary": "Sidi Bou Sâa is a zaouia (religious complex) with an associated cemetery.  The site features numerous reused antique blocks in the tombs, including an Attic Ionic column base, three capitals (one Corinthian, two others with convex profiles), and two grinding stones (one fluted, one conical).  The presence of common and sigillata Roman ceramics, along with Islamic pottery, and a layer of ash, indicates occupation spanning antiquity and the Islamic period. The architectural fragments suggest a Roman or Roman-influenced building in the vicinity."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "248,200 N ; 428,500 E",
+        "location_description": "Alt. 580 m.  The site is totally destroyed by land development. Currently only a few fragments of sigillata ceramic can be seen.",
+        "summary": "The CNSAMH site in Sbiba is largely destroyed due to land development.  Archaeological remains are extremely limited, with only a few fragments of sigillata pottery currently visible.  This suggests a significant level of past human activity, though the extent and nature of that activity remain largely unknown due to the destruction of the site. Further research is needed to fully understand its historical significance."
+    },
+    {
+        "site_name": "Henchir El Merfeg, Sidi Khlifa",
+        "location_coordinates": "247,700 N ; 421,900 E",
+        "location_description": "south of the aqueduct (site 068.194)",
+        "summary": "Henchir El Merfeg, Sidi Khlifa is an ancient site representing a small settlement.  Archaeological remains include an alignment of harpes, in-situ blocks, and a component of a two-holed wine press (2.40 m wide, 0.62 m thick). Common pottery is also present.  The site's center features the Sidi Khlifa shrine, constructed using various reused ashlar stones."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "247,800 N ; 422,850 E",
+        "location_description": "Western edge of the Sbiba 1/50,000 map, north bank of the Oued Sbiba.",
+        "summary": "This site, located on the northern bank of the Oued Sbiba, shows evidence of past settlement based on the presence of rare fragments of sigillata and common pottery.  However, significant agricultural development and land slippage have likely caused the destruction of much of the site, leaving behind only sparse remnants. The limited remaining artifacts suggest a settlement of some historical importance, though the extent of its significance is hampered by the site's destruction."
+    },
+    {
+        "site_name": "Ettahouna",
+        "location_coordinates": "247,850 N ; 423,600 E",
+        "location_description": "On the south bank of the Oued Sbiba.",
+        "summary": "Ettahouna is a completely leveled ancient site, partly planted with cacti.  Remnants include two small masonry basins (510 cm x 274 cm) separated by a wall (50 cm wide). The northern basin shows superimposed monochrome mosaic pavements and waterproof coating on the remaining vertical walls.  The site contains in-situ harp alignments. The southern end reveals ashy soil with rubble, common and sigillata antique ceramics.  Much of the site is currently used for agriculture; a modern canal and basin reuse antique debris."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069.164",
+        "location_coordinates": "247,850 N ; 425,000 E",
+        "location_description": "650 m east of the coast, on a hill.",
+        "summary": "This site, now largely erased due to cultivation, contains remnants of an ancient settlement.  Excavations have revealed foundations, mosaic cubes, and tiles.  A well-preserved Corinthian capital, made of white limestone and dating to the 5th-6th centuries AD (similar to one found in Maktar), is a key find.  The capital's acanthus leaf style suggests Constantinopolitan origins with local imitation. Common and sigillata antique ceramics are also scattered throughout the site, indicating its historical significance."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "247,450 N ; 425,650 E",
+        "location_description": "Atop a reddish hill, partially occupied by a modern house.",
+        "summary": "This excavated ancient site features remnants of a possible basin (12m long) with an opus africanum wall reused in a modern house.  An oil press is evidenced by two in-situ limestone counterweights. Architectural elements including an Ionic column base, a Tuscan capital, and column shaft fragments are present.  Common and sigillata pottery is scattered across the site, indicating its ancient occupation. The site's elevation is 620m.  The area is approximately ½ hectare."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "247,500 N ; 428,250 E",
+        "location_description": "Hr. El Merthoum",
+        "summary": "This site, a small artificial hill planted with cacti, has been largely destroyed by agricultural development.  Remaining artifacts, collected by local farmers, include fragments of smooth white limestone column shafts, pieces of troughs in white limestone, large blocks, and significant building materials.  The site also yielded examples of common and sigillata antique ceramics, indicating a settlement of historical significance, though the extent is now severely limited due to the destruction."
+    },
+    {
+        "site_name": "Hr. Tahar (or Hr. El Belahar)",
+        "location_coordinates": "245,750 N ; 448,200 E",
+        "location_description": "On the eastern bank of the Oued El Htob, on the summit of a north-south elongated hill, near Sbiba.",
+        "summary": "This archaeological site, approximately 8000 m², features several rough-stone structures, collapsed walls, and some standing walls.  The site's location on a hilltop overlooking the Oued El Htob suggests a strategic position. The absence of antique ceramics indicates a potentially different chronological context compared to other sites in the area. Further research is needed to fully determine its historical significance, though the presence of stone structures points to a settled occupation, likely pre-historic or protohistoric."
+    },
+    {
+        "site_name": "Henchir Laouej",
+        "location_coordinates": "247,150 N ; 418,800 E",
+        "location_description": "CNSAMH, feuille Ksar Tlili, 068.202, Alt. 795 m.",
+        "summary": "Henchir Laouej is an ancient site occupying a dominant and extensive position with low occupation density.  The site features several ruin groups, including some carved stones near the remains of an ancient oil press in its central area.  Eastern sections show several rough alignments.  Near a modern house are several oil presses, including one broken and collapsed, and a millstone.  Western areas exhibit significant alignments of rubble walls, and large rough block alignments forming enclosures, one partially built on a later large-block wall. The western edge features the mzar of Sidi Belgacem, with a rectangular grinding slab behind it.  Ancient ceramic and sigillata ware, a double trough with a six-branched rosette, a simple trough, and ancient bronze coins have been found.  The ruins of the oil press likely served as a later dwelling."
+    },
+    {
+        "site_name": "Henchir El Kharroubat Aïn Ghram",
+        "location_coordinates": "247,450 N ; 421,200 E",
+        "location_description": "CNSAMH, feuille Ksar Tlili, Alt. 745 m. Superficie : 1,5 ha.",
+        "summary": "Henchir El Kharroubat Aïn Ghram is an archaeological site featuring remains of an olive oil press, including multiple pairs of millstones (jumelles), a millstone platform, and walls constructed in opus africanum.  The site reveals evidence of at least three oil presses, with varying sizes and configurations of the jumelles.  Other features include a counterweight and a column fragment.  The presence of these features indicates significant olive oil production at this location during antiquity. The site's size (1.5 ha) suggests a relatively large-scale operation."
+    },
+    {
+        "site_name": "El Goussa Aqueduct",
+        "location_coordinates": "247,450 N ; 421,750 E",
+        "location_description": "Over the Oued El Merfeg, a left-bank tributary of the Oued Sbiba.",
+        "summary": "The El Goussa aqueduct is a north-south oriented structure approximately 38.90 meters long and 6.70 meters high at its maximum point.  It consists of two arches spanning an Oued (riverbed) that is 14-15 meters wide at the base of the monument and 25 meters wide at the conduit. The central pillar is 3.30m x 3m and 2.60m high. The upper conduit is a 155cm wide channel with 73cm wide, 60cm high sidewalls, entirely coated with waterproof stucco. While generally well-preserved, the south arch has lost part of its east facade and requires restoration. The structure is built of ashlar stone with a rubble upper section bound with lime mortar."
+    },
+    {
+        "site_name": "Sidi Nasseur",
+        "location_coordinates": "247,400 N ; 422,500 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.175",
+        "summary": "The Sidi Nasseur site, approximately 0.5 hectares, features a leveled ancient site (1.5 hectares) with remnants of a rectangular stone possibly a trough, millstones, rubble walls, and a broken grinding platform.  Abundant common and sigillata pottery is present.  Near the modern marabout of Sidi Nasseur, two antique column shafts are embedded, suggesting prior structures. The site's artifacts indicate past agricultural or craft activities, with the presence of the possible press stone and grinding platform suggestive of olive oil or wine production."
+    },
+    {
+        "site_name": "Sidi El Zaïer El Arifi",
+        "location_coordinates": "247,100 N ; 422,950 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.177 Alt. 669 m.",
+        "summary": "Sidi El Zaïer El Arifi is a leveled antique site situated on a small plateau, featuring a marabout in its center.  Archaeological finds include in-situ harpes, alignments, antique sigillata pottery, molded ceramics, and amphora sherds, indicating a significant settlement in the past. The site's 2-hectare area suggests a substantial presence, though the extent of its historical context requires further study. The presence of the marabout suggests later use or veneration of the site."
+    },
+    {
+        "site_name": "Henchir Ahmida",
+        "location_coordinates": "246,850 N ; 424,700 E",
+        "location_description": "feuille de Sbiba, CNSAMH, Alt. 650 m",
+        "summary": "Henchir Ahmida is an ancient site situated on a hill, covering 3 hectares.  Key features include three pairs of twin stones with lintels, oriented north-south, each with three notches and holes.  A fourth, lintel-less pair is also present. Two well-preserved grinding platforms and a counterweight are found nearby.  The hilltop holds a lintel-less twin stone, and fragments of grinding platforms and a well-preserved trough are located further down. A rectangular basin with internal buttresses shows evidence of waterproof coating. The site contains abundant Roman-era pottery, including sigillata ware, amphora fragments, and mosaic cubes. A south-facing ash-filled area with pottery remains, now cultivated, also exists."
+    },
+    {
+        "site_name": "El Chenchaina / El Mebdouâa",
+        "location_coordinates": "246,850 N ; 427,000 E",
+        "location_description": "West of the Sbeitla-Sbiba road, south of the site on the north bank of the Oued el Hassi.",
+        "summary": "El Chenchaina/El Mebdouâa is a completely leveled ancient site covering approximately 1 hectare.  Archaeological finds include a partially preserved 30m x 30m rectangular structure, a 2.10m long press component, numerous fragments of Roman and Islamic pottery (including sigillata and green-glazed ware),  burnt stones,  tiles,  ashy soil,  and animal bones. The presence of modeled ceramics, hydraulic plaster fragments, and the widespread ash suggest significant past activity, although the exact nature of the site remains unclear. The site is currently largely covered by prickly pear cacti."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "246,850 N ; 427,000 E",
+        "location_description": "1ha site located 1km east of the Sbiba-Sbeitla road.",
+        "summary": "This site features heavily eroded ruins, including aligned stone bases and remnants of masonry structures, primarily on the western edge.  Excavation revealed a marbleized white limestone column shaft (80cm L, 40cm diameter).  The area is strewn with nummulitic grey stones, flat tiles, and common and sigillata antique ceramics, indicating a significant ancient settlement, though the extent and nature of the structures remain largely unclear due to the site's degraded condition."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "246,850 N ; 427,000 E",
+        "location_description": "Approximately 400 m southwest of el Mabdouaa (site no. 135)",
+        "summary": "The site contains the ruins of a rectangular masonry basin (14.6m x 19.9m), showing signs of waterproof coating.  A connected channel, visible for approximately 200m, is supported by a mortared rubble wall.  The channel later goes underground.  Excavation revealed a rectangular aqueduct with waterproof coating and a white limestone cover.  The aqueduct is fed by the Aïn El Hassi spring, approximately 1km away.  The spring has been used since 1942 and is currently equipped with pumps. Nearby, remnants of ancient quarries with extraction tool marks are visible, suggesting local sourcing of building materials."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "246,850 N ; 427,000 E",
+        "location_description": "Approximately 400 m south of basin (site n° 137), along another oued parallel to the preceding one, and bearing the same toponym, at an altitude of 605 m.",
+        "summary": "This site contains the remains of an ancient inhumation necropolis.  Excavations revealed fragments of amphorae, white limestone slabs, and human bones.  The remains of approximately five tombs were identified, severely degraded due to the collapse of the southern bank of the oued.  Scattered across the site are fragments of common and sigillata antique ceramics, indicating a period of antiquity."
+    },
+    {
+        "site_name": "Hr. Mrass El Harmel (or Hr. Marsel el Harmel)",
+        "location_coordinates": "245,000 N ; 447,250 E",
+        "location_description": "On the west slope of the Oued el Htab, near a source, Sbiba, feuille de Sbiba,069.",
+        "summary": "This completely leveled ancient site features scattered ruins, including a rectangular structure (12m x 16m) reusing antique blocks and nummulitic stone oil press elements.  The site contains numerous oil presses (five identified), evidenced by the presence of grinding plates, millstones, and press components.  Other finds include a possible thermal establishment indicated by mosaic tesserae, hypocaust tiles, and a double-faced rubble wall. Additional discoveries include a fixation stone, a lintel, a grinding platform fragment, mortars, and various ceramic fragments.  Scattered throughout are burnt areas with calcined stones and snail shells, suggesting possible workshops or kilns."
+    },
+    {
+        "site_name": "Henchir Ben Hachem",
+        "location_coordinates": "246,700 N ; 419,900 E",
+        "location_description": "Bordure de l'Oued Sbiba",
+        "summary": "Henchir Ben Hachem is an olive oil production site (1.5 ha) located along the Oued Sbiba.  The eastern part of the site is partially preserved due to planting, while the western part has been extensively quarried.  Excavations revealed various artifacts including a limestone mortar, an oil press counterweight, two millstones (one complete, one broken), and a fragment of a press. The presence of common and sigillata pottery confirms its antique age and its function as an olive oil production facility."
+    },
+    {
+        "site_name": "El Henchir",
+        "location_coordinates": "246,600 N ; 423,700 E",
+        "location_description": "At the foot of the eastern foothills of Djebel Tioucha and southwest of Sbiba",
+        "summary": "El Henchir is an excavated ancient site covering 2 hectares.  It features two olive oil presses. The first press includes two in-place pillars with architectural decoration and two holes connected by a groove. The second press contains a grinding stone, fragments of a millstone, an anchor stone reused as a pillar base, and a circular pressing plate with a groove and a channel.  The site also includes remains of hydraulic pavement, aligned stones, and a quadrangular structure with double walls.  Numerous artifacts including tiles, waterproof coating, mosaic cubes, and antique pottery were found."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba",
+        "location_coordinates": "245,950 N ; 427,950 E",
+        "location_description": "East of the old Sbeitla-Rohia track",
+        "summary": "This leveled ancient site contains the remains of a partially destroyed ancient Roman bath complex (approx. 29m long x 20m wide), bisected north-south by an irrigation canal.  The structure, built of masonry, shows evidence of waterproof stucco and mosaic fragments.  An apse is visible, suggesting two levels of use.  Discovered artifacts include hypocaust tiles, door threshold fragments, common and sigillata pottery, and blocks and lintels. The site covers approximately half a hectare and sits at an altitude of 591m."
+    },
+    {
+        "site_name": "Hr. Kcheina",
+        "location_coordinates": "245,750 N ; 432,500 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.186",
+        "summary": "Hr. Kcheina is an entirely leveled ancient site currently planted with prickly pear fig trees.  Archaeological remains include a pair of millstones, a grinding platform, two counterweights of different types (A and D),  harrows, and a coin.  Recovered artifacts include several fluted and rudented column drums in white limestone, a white limestone column base, two yellowish limestone troughs, a broken millstone fixing stone, and a mortar.  A concentration of stamped pottery and calcined stones is found on the western slope, likely due to the steep incline. The site suggests a significant past presence of agricultural and possibly other industrial activities."
+    },
+    {
+        "site_name": "Sidi A.E.K.",
+        "location_coordinates": "245,800 N ; 433,000 E",
+        "location_description": "feuille de Sbiba, CNSAMH, Alt. 600 m.",
+        "summary": "The Sidi A.E.K. site, located in Sbiba (CNSAMH sheet 069), at an altitude of 600m, contains various Roman-era antiquities.  These include five column shafts or fragments made of white and yellowish limestone and tufa, varying in height and diameter.  Other finds consist of a fossilized limestone mortar, a conical grooved grinder of yellowish limestone, and a local limestone trough.  The artifacts suggest a possible Roman presence and the site's functional use, potentially related to agricultural activities or other aspects of daily life during that period."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069",
+        "location_coordinates": "245,050 N ; 441,700 E",
+        "location_description": "south of Koudiat El Alfa",
+        "summary": "This site, located south of Koudiat El Alfa, reveals evidence of ancient oil production, including fragments of oil presses and grinding platforms.  Remnants of plaster production are also present, with fragments of plaster tiles and walls.  Significant quantities of Roman sigillata ware, along with common pottery and a fragment of a Christian lamp, indicate occupation during the Roman period and potentially beyond.  Architectural elements such as a column fragment, a catillus fragment, and a door threshold fragment further suggest a substantial structure or settlement."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba,069.188",
+        "location_coordinates": "244,250 N ; 448,800 E",
+        "location_description": "Hr. Ouled Mohamed",
+        "summary": "This completely leveled ancient site, now planted with prickly pear fig trees, contains scattered rough stone piles and double-faced wall structures (67 cm thick). One rectangular structure (9.70 m x 5 m) is oriented north-northwest/south-southeast.  The site yields common and sigillata antique ceramics, jar fragments, and molded ceramics.  While the landowner mentions lost stelae and oil press elements, a fragment of a pierced-axle grinder and two traditional millstones remain. The site's characteristics resemble those of Hr. El Bellar (Hr. El Tahar site no. 069 168)."
+    },
+    {
+        "site_name": "Sidi Ahmed",
+        "location_coordinates": "246,000 N ; 417,800 E",
+        "location_description": "On a cliff overlooking the Oued Hamed, near the confluence of Oued Om El Aroug and Oued en Brek (forming Oued Sbiba).",
+        "summary": "Sidi Ahmed is a fortified Berber village ruin consisting of about a dozen houses clustered atop a cliff.  The site features possible prehistoric shelter remains at its base.  More significantly, the north cliff face of Oued Om El Aroug shows three levels of aligned rectangular mortises, possibly part of an ancient water system.  These mortises, some containing stones forming a wall base, may have been involved in the water supply for the Sufes aqueduct, given the proximity of a modern irrigation canal originating from the same location.  The purpose of this arrangement, whether to maintain a constant or variable water level, remains unclear."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "245,600 N ; 423,000 E",
+        "location_description": "Hr. Berdiali,  Superficie : 2 ha environ.  Alt. 720 m.",
+        "summary": "This completely leveled ancient site is traversed by a north-south oriented watercourse.  Excavations revealed various artifacts including a limestone lintel with mortises, a column shaft,  and numerous building fragments (tiles, harpes). Evidence suggests a quarry existed on the eastern bank.  The eastern portion, currently cultivated, yielded additional harpes and tiles.  A small eminence in the south contained more harpes and pottery.  Northern remains suggest a tumulus, indicated by three vertically placed slabs forming an L-shape, one with a cavity.  Modern spoliation further supports this interpretation."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "244,700 N ; 432,750 E",
+        "location_description": "feuille de Sbiba, 069. Altitude 572 m. Superficie 750 m2.",
+        "summary": "The site consists of the remains of a building, possibly a mausoleum, oriented east-west.  Built of rubble stones bound with lime using opus incertum, it is largely destroyed, preserving only a section of wall (2.70m high, 5m long).  Scattered masonry remains nearby. Fragments of tile and ancient pottery are present.  Approximately 150m west, traces of another building, constructed in opus africanum, were revealed by clandestine excavation.  This excavation uncovered a white limestone door threshold (128cm long) and an intact internal plaster on the north wall."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "244,550 N ; 435,850 E",
+        "location_description": "Hr. El Draa, north of the Sbiba-El Jabbès road.",
+        "summary": "This completely leveled ancient site, approximately 9 hectares, features numerous remnants of an oil press.  Discovered elements include multiple pairs of millstones (with grooves and notches), grinding and pressing platforms, a counterweight, and various stone fixtures.  The site also reveals fragments of pottery, stucco pavement, and building materials such as bricks and amphoras, indicative of a larger complex associated with oil production.  A second oil press area is located 200m to the east.  The site's extensive remains suggest significant economic activity related to olive oil production in antiquity."
+    },
+    {
+        "site_name": "Hr. El Fercha",
+        "location_coordinates": "244,600 N ; 438,700 E",
+        "location_description": "feuille de Sbiba, south of the Sbiba-Jebbès road",
+        "summary": "Hr. El Fercha is an ancient, leveled site currently planted with prickly pear trees.  Notable features include a limestone grinding platform, several twin pillars with mortises, possibly remnants of a structure, and a cruciform basin (according to topographic surveys).  The site yielded abundant Roman era pottery and a significant discovery: a funerary stele inscribed with the epitaph of L. Iulius Securus, dating the site to the 2nd-3rd century CE.  The epitaph details Securus' age at death (90 years) and his wife's commission of the monument. The site's remains indicate a once-larger structure now significantly ruined."
+    },
+    {
+        "site_name": "Aouithet Mheinnya",
+        "location_coordinates": "244,400 N ; 440,450 E",
+        "location_description": "Southwest of Koudiet El Alfa, south of the Sbiba-Jebbès road, on the right bank of the Oued Mrira.",
+        "summary": "A completely leveled ancient site located in CNSAMH, feuille de Sbiba, 069.  It featured a structure on a small eminence with a double-faced wall of rough stones bound by lime.  The site also contained in-situ harpes, common and stamped antique ceramics, indicating past habitation or activity. The size is approximately ½ hectare and sits at an altitude of 560m."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "243,850 N ; 440,250 E",
+        "location_description": "In an olive grove, Sbiba region (feuille 069). Altitude 555m.  Approximately 0.5 hectares.",
+        "summary": "This site, now completely leveled, shows only scattered remnants of an ancient settlement.  Remains include stones, fragments of jars, ash, and common and stamped ancient pottery.  The extent of the site's occupation and the nature of the settlement remain unclear due to the significant destruction, leaving only limited material evidence."
+    },
+    {
+        "site_name": "Sidi Mohamed El Gharbi El Messamchah",
+        "location_coordinates": "245,350 N ; 419,000 E",
+        "location_description": "At the bottom of the gorges of the wadi, in a very difficult-to-access area, and at the top of a hill.",
+        "summary": "This site features a rectangular enclosure (5.15m x 4.40m) built from antique blocks, surrounded by a 600m² cemetery.  Ancient remains include a trough (0.89m x 0.63m), door fragments, and possibly a press with two pairs of stones.  The main site (2500-3000m²) contains stone alignments, traces of clearing, and an antique oil press.  The presence of common and sigillata antique ceramics indicates an ancient settlement, potentially linked to agricultural practices, evidenced by the press remains.  The site’s location in a remote gorge suggests a strategic or secluded function."
+    },
+    {
+        "site_name": "Sidi Ahmed",
+        "location_coordinates": "245,450 N ; 422,700 E",
+        "location_description": "Isolated location in the bottom of a deep wadi among the undulations of the southwest heights of Sbiba.",
+        "summary": "Sidi Ahmed is a collapsed quadrangular marabout (7.65m L x 6.95m W, 65cm wall thickness) containing the remains of three arches built around a standing antique column. Two arches remain, dividing the interior space.  The site features an antique column shaft, a Corinthian column base, and another detached column shaft, all made of local white limestone.  The main structure houses a tree adorned with pieces of fabric. The site's remote location in a deep wadi makes it difficult to locate."
+    },
+    {
+        "site_name": "Aïn Ed Diba",
+        "location_coordinates": "244,450 N ; 427,550 E",
+        "location_description": "Parallèlement au cours de l’Oued Smara (orienté est-ouest et descendant des contreforts occidentaux de Jebel Tiouacha)",
+        "summary": "Aïn Ed Diba features a complex hydraulic system including seven wells in dune tuff, connected by a canal carrying water to Aïn es Smara (currently dried up).  A nearby elongated structure, possibly a bathhouse, with polychrome mosaic pavement, ashes, tiles, and fitting tubes is also present.  A large basin, 23m x 20m, with an annex, is found nearby,  showing signs of significant damage but possibly connected to an aqueduct leading to another secondary basin.  The entire system demonstrates sophisticated ancient water management techniques in the region, possibly linked to a now-ruined reservoir mentioned in historical accounts as Souk-m’ta-Aïn-ed-Diba (the market of the jackals' spring)."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "244,500 N ; 428,650 E",
+        "location_description": "north of the village of Aïn Kmeinssya, west of the Sbiba-Sbeitla road, between two wadis",
+        "summary": "This archaeological site consists of three main areas. The first, known as Kods Errmed, shows evidence of fire damage, including calcined stones and charcoal fragments, suggesting a significant event.  The second area features Roman architectural elements like a Tuscan capital, column shafts, and a broken door threshold, along with an aqueduct. The third area contains two parallel, monochrome mosaic pavements and a masonry basin.  The site's scattered ancient pottery indicates a long history, spanning periods before and after the fire."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "244,250 N ; 432,500 E",
+        "location_description": "Salsala, occupying a koudiat overlooking a vast plain.",
+        "summary": "The site, though now largely destroyed and heavily disturbed, reveals remnants of an ancient settlement.  A quadrangular structure built with reused antique blocks, including elements of presses, suggests significant construction.  Discovered artifacts include oil-pressing equipment (presses, counterweights, and plateaux), a stone for fixing yokes, a column base, mortars, and architectural fragments.  Further evidence points to a possible thermal establishment, with an aqueduct, a possible cistern, and numerous finds of mosaics, tiles, and ceramics.  The site's condition reflects extensive damage from both natural processes and human activity."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069.207",
+        "location_coordinates": "243,650 N ; 437,900 E",
+        "location_description": "On the left bank of the Oued Leimej, northwest of Kods Errmed (n°069.241)",
+        "summary": "This site is a completely leveled ancient site near Kods Errmed.  The remains consist of several structures with a double-faced leveled wall (65 cm wide).  Three wine presses are also identified by their components:  two uprights, a fixing stone, and fragments of crushing plates.  Common and sigillata antique pottery is scattered across the site, indicating past activity. The site's features suggest an ancient agricultural or production area."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "243,350 N ; 430,500 E",
+        "location_description": "East of Hr. Souk El Roumane (n° 199), approximately 150 m west of the Aïn el Kmaïssyya-Thmed road.",
+        "summary": "This leveled ancient site contains a structure with aligned stone features suggesting two adjacent rooms (875 m north-south / 4.90 m east-west).  Found on-site are some stones in large ashlar, fragments of amphorae, common ceramic sherds, and rare examples of sigillata ware. The site's area is approximately 1.5 hectares and sits at an altitude of 585 m. The presence of the stone structure and associated pottery indicates a past settlement or structure of potential historical significance, though further research is needed to precisely date and define its function."
+    },
+    {
+        "site_name": "Sidi Abd el Kader",
+        "location_coordinates": "243,150 N ; 433,150 E",
+        "location_description": "feuille de Sbiba, 069",
+        "summary": "Sidi Abd el Kader is a leveled ancient site located on a slightly inclined terrain, dominated by a mazâr (shrine) of the same name.  The mazâr is an enclosure of rough stones with rounded corners, containing reused antique elements including three white limestone column shafts, two metae, a broken base or capital, and a door threshold.  Common and sigillata antique ceramics are also present. The site's presence of reused Roman architectural elements suggests a history of repurposing older materials in the construction of the mazâr, indicating a possible continuity of occupation and the layering of historical periods at the site."
+    },
+    {
+        "site_name": "Kods Errmed",
+        "location_coordinates": "242,800 N ; 438,750 E",
+        "location_description": "A hill overlooking the Oued Leimej on its right bank. It is currently surrounded by prickly pear trees.",
+        "summary": "Kods Errmed is a site covering approximately 1 hectare, characterized by ash-like soil.  Archaeological remains include the remnants of rubble walls, molded ceramics, a fragment of a black basalt millstone, bones, calcined stones, and fragments of common and sigillata pottery.  These findings suggest past human occupation and activity, likely spanning a period reflected in the variety of pottery styles. The site's elevated position overlooking the Oued Leimej indicates potential strategic or resource-related significance."
+    },
+    {
+        "site_name": "Sbil",
+        "location_coordinates": "242,650 N ; 445,900 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.210 Alt. 473 m",
+        "summary": "Sbil is a leveled antique site featuring an opus africanum structure on a small eminence (10.50m x 15.20m).  Remaining features include plaster traces, in-place harpes, a rubble wall bound with plaster, and fragments of oil-production elements. A circular basin (5.60m diameter), constructed of rubble and lime with remaining buttresses, is located to the south, though currently filled and poorly preserved.  Locals report uncovering a similar basin approximately 20m south, now marked by a 5.60m diameter depression. Common and sigillata antique ceramics, including a lamp handle, are abundant."
+    },
+    {
+        "site_name": "Gbar El Azouza",
+        "location_coordinates": "242,700 N ; 446,650 E",
+        "location_description": "feuille de Sbiba, 069.208",
+        "summary": "Gbar El Azouza is an ancient site near Sbiba, covering approximately 4000 m².  Divided by a track, it features two areas. The northern area contains in-situ stone presses, common and sigillata pottery, and amphora fragments. The southern area contains a significant structure (26.90m x 29.60m x 27.05m x 29.95m) atop an eminence. This structure includes a white limestone counterweight from a wine press and the beginnings of an apse.  The site also yielded fragments of bichrome and polychrome mosaics, tesserae, formwork tubes, waterproof stucco, amphora handles and feet, plaster, and common and sigillata pottery.  The walls are regular, 60cm wide, built of rubble and lime, with stone presses in the four corners."
+    },
+    {
+        "site_name": "Henchir El Agab",
+        "location_coordinates": "243,000 N ; 420,550 E",
+        "location_description": "CNSAMH, feuille Ksar Tlili, Alt. 945 m.",
+        "summary": "Henchir El Agab is an ancient site covering approximately 2000 m², featuring the remains of a relatively well-preserved oil press.  The site includes a field of ruins with both unworked and worked limestone blocks.  The oil press, oriented southeast, measures roughly 25m north-south and 15m east-west.  Its features include two pairs of press beams, a counterweight, and a door.  The presence of the oil press suggests a separation of crushing and pressing operations, with crushing likely done outdoors and pressing in the shade. An escargotière (snail shell mound), 13m in diameter, is also located on the site."
+    },
+    {
+        "site_name": "Sidi Naceur",
+        "location_coordinates": "243,350 N ; 426,200 E",
+        "location_description": "feuille de Sbiba, Alt. 702 m.",
+        "summary": "The Sidi Naceur site features a significant megalithic necropolis surrounding the mzar (mausoleum) of Sidi Naceur.  The necropolis is relatively extensive, encompassing numerous ovoid tombs averaging 8 meters in diameter. The presence of these megalithic structures indicates a notable prehistoric or early historical presence in the region, offering valuable insights into burial practices and settlement patterns of the time. Further research is needed to precisely date the site and determine the cultural affiliations of its inhabitants."
+    },
+    {
+        "site_name": "Hr. El Hassari",
+        "location_coordinates": "242,850 N ; 429,600 E",
+        "location_description": "approximately 500 m west of the Sbiba - Sbeitla road, feuille de Sbiba, 069",
+        "summary": "Hr. El Hassari is an ancient, leveled site covering approximately 2 hectares.  Significant finds include a type A counterweight, a meta, in-situ harps, and structures with reused elements. A nearby mzar contains further antiquities such as a column base, column shaft, two more metae, and worked stones.  Other discoveries include a lintel fragment, a reused fixing stone, amphora handles and bases, and common, sigillata, and modern ceramics. The site's artifacts suggest a rich history, likely encompassing elements of Roman or earlier periods, based on the presence of architectural fragments and utilitarian objects."
+    },
+    {
+        "site_name": "Hr. Souk Er Roumane",
+        "location_coordinates": "242,950 N ; 430,200 E",
+        "location_description": "feuille de Sbiba",
+        "summary": "Hr. Souk Er Roumane features a significant hydraulic installation comprising an open-air aqueduct constructed of ashlar blocks and lime mortar, approximately 300m long, and an adjacent basin of similar construction.  The aqueduct, with a specus measuring 32cm high and 37cm wide, is marked by circular inspection shafts. The basin, measuring approximately 26m x 37m, has numerous buttresses.  The site showcases advanced engineering knowledge for its time.  Nearby discoveries include an antique keystone reused in a ruined dwelling, and an eroded escargotière suggesting previous activity.  The presence of common and sigillata pottery, along with a funerary stele fragment bearing an inscription dedicated to a Rusticus who lived to 81, suggests occupation during the 2nd-3rd centuries CE."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "242,300 N ; 435,850 E",
+        "location_description": "Hr. Bou Hlel",
+        "summary": "This completely leveled ancient site contains the ruins of four oil presses, various artifacts, and a modern cemetery.  Discoveries include antique elements,  mzars (shrines), a coin, an oil lamp, and abundant pottery. The oil presses are well-documented, with detailed measurements of their components provided.  A monochrome white mosaic pavement is also present, along with other features such as broyers coniques, a column base, a door threshold, and a mortar. The site's artifacts and structures suggest significant past olive oil production and potentially other activities within a larger settlement."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "242,200 N ; 439,550 E",
+        "location_description": "Hr. Hembez, near Oued El Melah and Oued Leimej, Alt. 530 m.  Superficie : 35 ha.",
+        "summary": "This extensive, largely destroyed ancient site is now mostly covered by agricultural fields.  Remains include a small thermal establishment with mosaic tesserae and hypocaust tiles, a basin with troughs, and numerous architectural fragments: ionic and Tuscan capitals, column bases and shafts, door thresholds, and oil press components.  Scattered throughout are also various building stones, pottery (including sigillata ware), and lamps.  A second thermal establishment is located northeast of the main site near Aïn Charchara spring.  The site's rugged terrain shows extensive erosion and disturbance."
+    },
+    {
+        "site_name": "Sidi Belkacem",
+        "location_coordinates": "242,000 N ; 441,450 E",
+        "location_description": "On a hill located on the right bank of the Oued Leimej.",
+        "summary": "Sidi Belkacem is a small, 4m diameter, dry-stone enclosure (mzar) located on a hill overlooking the Oued Leimej.  It features a possible associated structure, possibly a basin, with double-faced walls and a small, 5m x 3m, waterproof stucco paved area. The site yielded fragments of antique sigillata pottery, suggesting its use or occupation during ancient times. The mzar itself opens to the southeast and currently contains no offerings. Its modest size and simple construction are noteworthy."
+    },
+    {
+        "site_name": "Hr.Ragoubet El Zréga (or Hr. Rokbet Ez Zerga)",
+        "location_coordinates": "069.217 242,050 N ; 443,200 E",
+        "location_description": "on the right (south) bank of the Oued Leimej",
+        "summary": "This leveled antique site, approximately 3 hectares, is documented on a topographic map.  While largely obscured by debris, remaining structures include a well-preserved two-holed oil press, several unidentified structures, and reused antique elements in a ruined modern building.  Nearby are a buried grinding stone and a meta. Common antique pottery is abundant, while sigillata ware is rare. The site's significance lies in its preserved features which provide evidence of oil production and other daily activities in antiquity."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069.218",
+        "location_coordinates": "241,750 N ; 444,350 E",
+        "location_description": "West of the Hr. El Hassek site (n°069.220)",
+        "summary": "This site contains the remains of a small masonry structure, identified as the base of a tomb.  Numerous spoliation pits surround it, suggesting a necropolis possibly associated with the nearby Hr. El Hassek site.  The presence of antique sigillata pottery further supports its ancient significance. The site's relatively small size (2500 m2) and the scattered nature of the remains indicate a potential smaller, subsidiary burial ground or associated activity related to the larger site of Hr. El Hassek."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "241,600 N ; 445,600 E",
+        "location_description": "Hr. El Hassek. Altitude 495m.  Surface area: 8000 m2.",
+        "summary": "This site features the remains of an ancient structure, largely leveled and now planted with prickly pear cacti.  Excavations revealed various artifacts including a large counterweight, fragments of plaster, oil press components (plateaus, crushers, etc.), and building materials (stones, bricks, a column fragment). Two leveled walls oriented north-south/east-west are present, along with structures in opus africanum. A nearby eroded area suggests a three-room structure with a possible barrel vault and mosaic floor.  Evidence of a metallurgical workshop, including slag and a collapsed furnace, is found nearby.  The presence of ancient pottery, coins depicting emperors and warriors, and a Constantinian cross suggests a span of historical significance, encompassing Roman and early Christian periods.  A nearby Mzar (Kalouet Suyyah Mrila) indicates continued use of the area for religious purposes."
+    },
+    {
+        "site_name": "Sidi Mabrouk El Krammar",
+        "location_coordinates": "242,500 N ; 430,600 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.231",
+        "summary": "Sidi Mabrouk El Krammar is a site containing a cemetery with 18 whitewashed tombs and a rudimentary, abandoned mzar (shrine). The mzar, known locally as Sidi Mabrouk El Khammar, houses a column shaft (70cm high, 27cm diameter) and a fragment of a trough.  The site covers 500 square meters and is located at an altitude of 610 meters.  The presence of the column shaft and trough suggests potential historical significance beyond its function as a cemetery and mzar, possibly indicating remnants of a larger, older structure or settlement."
+    },
+    {
+        "site_name": "Henchir Ben Guettas",
+        "location_coordinates": "242,600 N ; 417,900 E",
+        "location_description": "On the left bank of the wadi, in a forested area, difficult to access, situated between the wadi and the mountain.",
+        "summary": "Henchir Ben Guettas is an ancient site covering 3000 m², characterized by a collection of raw stones gathered from the wadi bed.  Its location suggests a habitat for herders or hunters, possibly a refuge. The site's difficult accessibility and proximity to the wadi and mountain underscore its defensive nature. The presence of ancient pottery and wild olive trees further supports its historical significance as an ancient settlement, possibly dating back to antiquity."
+    },
+    {
+        "site_name": "Site antique 068.291",
+        "location_coordinates": "242,400 N ; 420,500 E",
+        "location_description": "CNSAMH, feuille Ksar Tlili,  at an altitude of 1060 m. Approximately 800 to 1000 m² in area. Located in a clearing.",
+        "summary": "This archaeological site features aligned large rubble walls, forming structures within a clearing.  Systematic stone removal has left behind significant finds including two large limestone counterweights with grooves and lateral notches, broken door elements, and a press beam clamp. Abundant antique ceramic fragments, both common and sigillata ware, are scattered throughout.  Nearby, on a hill overlooking Bir Loucif, are the ruins of a more recent building incorporating reused antique elements, suggesting potential connections between the ancient settlement and later occupation."
+    },
+    {
+        "site_name": "Hr. Ethouamnyya (Hr. Kramar)",
+        "location_coordinates": "069.236247 241,300 N ; 430,300 E",
+        "location_description": "East of the Sbeitla-Sbiba road, approximately 400 m, at the eastern end of Kodiat Bou Meftah.",
+        "summary": "Hr. Ethouamnyya is a largely destroyed ancient site containing the remains of four oil presses, a milliarium, and other artifacts.  Discoveries include remnants of a baking oven, traces of thermal baths, pottery, and a coin.  The site's oil presses are particularly well-documented, with detailed descriptions of their components.  The presence of a milliarium of Maximinus Thrax and his son, dated to 237 AD, is significant, placing the site within the context of the Roman road network.  Despite significant disturbance from agricultural activities, the site continues to yield artifacts revealing aspects of Roman daily life and infrastructure in the region."
+    },
+    {
+        "site_name": "Sidi Abdelkader",
+        "location_coordinates": "241,300 N ; 435,250 E",
+        "location_description": "feuille de Sbiba, Alt. 575 m. Superficie : 2,5 ha.",
+        "summary": "Sidi Abdelkader is a leveled antique site featuring a filled cistern built of rubble and lime, and in-situ harps.  A modern cemetery dominates much of the site, overseen by a mausoleum (mzar) known locally as Sidi Mansour. This mausoleum, constructed of raw stones and whitewashed, contains reused elements such as a door threshold, a broken trough, and dressed blocks.  The site also yields fragments of amphorae and common and stamped antique ceramics."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "240,700 N ; 433,350 E",
+        "location_description": "Sbiba, 1/50 000 map",
+        "summary": "The site, identified on the Sbiba 1:50,000 map as a double linear feature (CNSAMH, sheet 069), has not been located during field surveys.  Its coordinates are listed as 240,700 N; 433,350 E at an altitude of 620m.  The absence of on-site confirmation leaves its historical significance and nature undetermined, highlighting the challenges in reconciling cartographic data with physical verification in archaeological investigations."
+    },
+    {
+        "site_name": "Sidi Ali Ben Jaballah",
+        "location_coordinates": "069.240 N ; 435,950 E",
+        "location_description": "feuille de Sbiba",
+        "summary": "Sidi Ali Ben Jaballah is a rectangular (3.20m x 2.50m) mazâr (shrine) built of rubble stone and whitewashed.  It features a niche in the northwest corner containing traces of worship, and the entrance incorporates elements from an oil press.  A modern cemetery with 72 whitewashed tombs surrounds it, built by the Tarhout family. The site is partially enclosed by cactus. The mazâr's significance lies in its testament to local religious practices and funerary traditions, as well as the historical context provided by the oil press elements and the relatively recent cemetery development. The site's dimensions (5600 m2) and altitude (570m) are also noted."
+    },
+    {
+        "site_name": "Sidi El-Hasnaoui",
+        "location_coordinates": "240,600 N ; 438,800 E",
+        "location_description": "feuille de Sbiba, CNSAMH, 069.237",
+        "summary": "The Sidi El-Hasnaoui site features reused antique Roman architectural elements.  The zaouia of Sidi El-Hasnaoui incorporates three antique column shafts and a white limestone door threshold. Nearby, three mazars contain additional antique fragments: three column shaft fragments, a catilus fragment, and a door threshold fragment.  The courtyard of the Sidi el Hasnaoui primary school contains a fragment of a yellowish limestone lintel, possibly from a base or cornice, and two fragments of a yellowish limestone trough. These findings suggest the presence of Roman-era structures in the vicinity, repurposed or incorporated into later constructions."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "240,750 N ; 440,900 E",
+        "location_description": "Hr. Mrhila (on the map), near Djebel Mrhila (jebel Mghuila) and Aïn Dalia.",
+        "summary": "The site, indicated on the map by symbols representing an aqueduct extending 700m, shows no surface remains. Locals reported an artificial ditch of similar orientation.  At the southern base of Djebel Mrhila, near Aïn Dalia, partially collapsed remains of a masonry wall were found, possibly the aqueduct's origin.  The absence of visible remains at the main site contrasts with the map's indication of an aqueduct."
+    },
+    {
+        "site_name": "Hr. Kef Damous",
+        "location_coordinates": "241,500 N ; 418,350 E",
+        "location_description": "Kef Damous, CNSAMH, feuille Ksar Tlili, 068.299. Altitude 1119m.",
+        "summary": "This archaeological site at Kef Damous consists of two main areas. The first, approximately 1000 m², is a rectangular structure (32m N-S, 17m E-W) containing the remains of a small ancient establishment.  Features include aligned rubble walls, in-situ querns, and fragments of a press.  Ancient common and sigillata pottery are present.  A second area, about 500 m², lies 500m south,  near the summit of Kef Damous.  This area, partially obscured by forest and steep terrain, shows aligned querns, opus africanum construction, and abundant common and sigillata pottery. Both areas show evidence of ancient activity, likely related to olive oil production."
+    },
+    {
+        "site_name": "El Baaja",
+        "location_coordinates": "240,250 N ; 427,250 E",
+        "location_description": "feuille de Sbiba, near location marked RR on the 1/50,000 Sbiba map",
+        "summary": "El Baaja is a site approximately 0.5 hectares in size, showing minimal surface remains. Only a few fragments of common and sigillata antique ceramic have been found.  Its burial under alluvium is possibly due to proximity to a mountain and a change in slope.  Nearby modern houses reuse some antique blocks, suggesting further potential buried remains."
+    },
+    {
+        "site_name": "Hr. El Mangoub",
+        "location_coordinates": "239,700 N ; 435,600 E",
+        "location_description": "Along the Oued Thmed, feuille de Sbiba",
+        "summary": "Hr. El Mangoub is a largely razed and cacti-planted ancient site encompassing 5 hectares.  Key findings include three stone doorframes (jumelles), one largely intact, with its lintel nearby; a structure built using opus africanum; a yellowish limestone counterweight from a press; and a white limestone block for fixing a doorframe.  Abundant ancient Roman pottery, including sigillata ware, amphora bases, and tiles, are scattered across the site, indicating significant Roman-era activity.  The site's location near the Oued Thmed is significant to the discovered structures' orientation."
+    },
+    {
+        "site_name": "CNSAMH, feuille de Sbiba, 069",
+        "location_coordinates": "239,500 N ; 439,200 E",
+        "location_description": "North of Dir El Hadjla (a northern spur of Jebel Mghuila), south of Sidi El Hasnaoui, near Aïn El Gammam.",
+        "summary": "This site features a megalithic necropolis spanning several hectares, characterized by numerous elliptical tumuli (10-15 m diameter) constructed from large blocks and accumulated stones.  Some tumuli are simple structures, while others are more complex. The area also contains agricultural terraces following contour lines, with pathways parallel to the slope.  The proximity of tombs to agricultural features raises chronological questions regarding their development and interaction."
+    },
+    {
+        "site_name": "Aïn El Rhamdia (or Aïn El Guemam)",
+        "location_coordinates": "239,250 N ; 439,500 E",
+        "location_description": "At the foot of the northern spurs of Jebel Mghuila, known as \"Dir El Hadjala\", near the left bank of a wadi.",
+        "summary": "This largely leveled ancient site contains two main rectangular structures. The first, approximately 24.5m x 16.4m, features a discernible basin based on internal wall plastering. The second, measuring 32m x 20.6m, shows a 67cm wide wall and an additional, partially visible, semi-rectangular structure on its west side.  A second area, approximately 800m², on the wadi's left bank, reveals further leveled structures with calcined stones, ash, and fragments of sigillata and modeled pottery, suggesting past habitation or activity."
+    },
+    {
+        "site_name": "Hr. Thmed",
+        "location_coordinates": "069.254 239,500 N ; 443,500 E",
+        "location_description": "feuille de Sbiba, Alt. 608 m. near Oued Tsmed (according to the map) and Oued Thmed (according to the inhabitants)",
+        "summary": "Hr. Thmed is an extensive ancient site encompassing four main areas.  These ruins include numerous architectural elements such as columns, bases, press components (including metae and presses), and parts of thermal structures. The site also contains significant amounts of ancient ceramics, mosaics, and possibly a necropolis.  Numerous epigraphic and relief fragments have been discovered, including stelae depicting Atlas, other figures and religious scenes, and several epitaphs providing valuable insights into the site's inhabitants and their cultural practices during the Roman period, dating to the 1st-3rd centuries CE. The site faces threats from agricultural activity and looting."
+    },
+    {
+        "site_name": "Lella Meriam",
+        "location_coordinates": "239,000 N ; 436,150 E",
+        "location_description": "feuille de Sbiba, Alt. 600 m.",
+        "summary": "Lella Meriam is a site featuring a 5-meter diameter dry-stone enclosure, whitewashed, and containing a niche with offerings.  It's sheltered by a thuya tree (arara) and situated on a circular structure of rough stones, possibly a tumulus. The site's significance lies in its structure, suggesting possible funerary or ritual practices, offering insights into the cultural and religious traditions of the region. The presence of offerings further indicates its importance as a place of worship or commemoration."
+    },
+    {
+        "site_name": "Sidi Ali Ech Chaïb",
+        "location_coordinates": "238,650 N ; 438,850 E",
+        "location_description": "At the foot of Jebel Mghila, at the southern end of the area covered by the Sbiba 1/50,000 map no. 69",
+        "summary": "Sidi Ali Ech Chaïb is a zaouia (religious complex) located in a repurposed ancient rectangular basin.  The Islamic structure features a prayer hall with a mihrab, originally possessing a dome supported by four columns (two remaining).  The columns have interesting capitals comparable to those at Sidi Mohamed Ben Chrifa. The complex includes a patio and several adjacent rooms, showcasing a mix of architectural styles and materials.  Ancient materials, including columns and capitals, were reused in the Islamic construction, along with techniques like crossed vaults and plasterwork.  The site also contains other structures and features, along with evidence of both ancient and modern Islamic ceramics."
+    },
+    {
+        "site_name": "Hr. Hamouda",
+        "location_coordinates": "238,600 N ; 427,200 E",
+        "location_description": "Located on the northern limit of the projected area in the Jebel Mrhila map, approximately 10 km south of Sbiba.",
+        "summary": "Hr. Hamouda is an ancient, leveled, and cultivated site encompassing three units.  The western unit features an olive press with two limestone pillars exhibiting significant wear. The central unit reveals structures and alignments reusing yellowish limestone, including oil press components and a well-preserved 13.20 m x 13 m structure. A rectangular basin (30.20 m x 15.90 m), possibly part of a hydraulic complex, is also present, along with a small cistern. The southern unit shows a ruined structure, potentially a mausoleum or temple. The site contains common and stamped antique ceramics and jar fragments, indicative of a significant historical presence, likely related to agricultural production and possibly ritual or religious activities."
+    },
+    {
+        "site_name": "Hr. El Goguiba",
+        "location_coordinates": "238,900 N ; 434,000 E",
+        "location_description": "feuille de Jebel Mrilha n° 77, Alt. 650 m. Superficie : 3.5 ha",
+        "summary": "Hr. El Goguiba is a leveled antique site, now planted with cacti, and divided by a small stream.  Eastern remains include scarce in-situ querns, a type A white limestone counterweight, and scattered yellowish limestone blocks. Western finds consist of fragments of olive oil press components (counterweights, twin-press uprights) in brown and yellowish limestone. The site is covered with rubble, plaster fragments, amphora fragments, and common and sigillata antique ceramic pieces."
+    }
+]
